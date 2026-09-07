@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title description">
+  <title id="title">Illustrative Veristudy administrator workspace</title>
+  <desc id="description">A dark desktop interface showing navigation, weekly totals, recent study sessions, and a selected session review using fictional member names.</desc>
+  <rect width="1200" height="680" rx="24" fill="#070d13"/>
+  <rect x="0" y="0" width="205" height="680" rx="24" fill="#080e14"/>
+  <rect x="205" y="0" width="995" height="680" rx="24" fill="#0d141c"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <circle cx="35" cy="40" r="15" fill="#132131"/><path d="M29 34l6 12 8-16" fill="none" stroke="#2dd4a6" stroke-width="4"/>
+    <text x="60" y="37" fill="#f4f7f9" font-size="21" font-weight="700">Veristudy</text>
+    <text x="60" y="55" fill="#778999" font-size="10" font-weight="700">VERIFIED STUDY HOURS</text>
+
+    <g fill="#aab8c4" font-size="14"><text x="30" y="110">Member</text><text x="30" y="150">Admin</text></g>
+    <rect x="16" y="170" width="173" height="38" rx="8" fill="#132a47"/>
+    <g fill="#dce6ed" font-size="14"><text x="35" y="195">Dashboard</text><text x="35" y="236">Sessions</text><text x="35" y="277">Approved Tools</text><text x="35" y="318">Settings</text></g>
+    <circle cx="30" cy="638" r="4" fill="#2dd4a6"/><text x="43" y="642" fill="#2dd4a6" font-size="12">Tracking ready</text>
+
+    <text x="240" y="42" fill="#2dd4a6" font-size="12" font-weight="700">DEMO ORGANIZATION</text>
+    <text x="240" y="76" fill="#f4f7f9" font-size="28" font-weight="700">Study Hour Workspace</text>
+    <text x="240" y="101" fill="#9baab7" font-size="14">Shared progress, reliable reviews, and organization accountability.</text>
+    <g fill="#738493" font-size="10" font-weight="700"><text x="882" y="38">PLATFORM</text><text x="1010" y="38">SYNC</text></g>
+    <g fill="#edf3f7" font-size="12" font-weight="700"><text x="882" y="58">macOS + Windows</text><text x="1010" y="58">Organization Data</text></g>
+
+    <rect x="240" y="130" width="925" height="105" rx="16" fill="#0a0f14" stroke="#25303a"/>
+    <text x="260" y="159" fill="#2dd4a6" font-size="11" font-weight="700">WEEKLY OVERVIEW</text>
+    <rect x="260" y="176" width="270" height="42" rx="9" fill="#111b25" stroke="#253747"/>
+    <text x="276" y="202" fill="#eef3f6" font-size="14">Current week</text>
+    <g fill="#778996" font-size="10" font-weight="700"><text x="575" y="183">MEMBERS ON TRACK</text><text x="740" y="183">PENDING REVIEW</text><text x="900" y="183">APPROVED HOURS</text></g>
+    <g fill="#f0f5f7" font-size="22" font-weight="700"><text x="575" y="211">12</text><text x="740" y="211">3</text><text x="900" y="211">84.5h</text></g>
+
+    <rect x="240" y="258" width="545" height="380" rx="16" fill="#090e13" stroke="#25303a"/>
+    <text x="260" y="289" fill="#2dd4a6" font-size="11" font-weight="700">RECENT SESSIONS</text>
+    <g>
+      <rect x="260" y="309" width="505" height="72" rx="8" fill="#142742"/>
+      <text x="278" y="337" fill="#f2f6f8" font-size="15" font-weight="700">Alex Morgan</text>
+      <text x="278" y="360" fill="#a5b3be" font-size="12">Today · 2:10 PM → 3:42 PM · Pending Review</text>
+      <text x="710" y="349" fill="#2dd4a6" text-anchor="end" font-size="16" font-weight="700">1.53h</text>
+      <path d="M260 398h505M260 480h505M260 562h505" stroke="#1d2832"/>
+      <text x="278" y="427" fill="#f2f6f8" font-size="15" font-weight="700">Jordan Lee</text><text x="278" y="450" fill="#a5b3be" font-size="12">Yesterday · Accepted · confidence 92</text><text x="710" y="438" fill="#2dd4a6" text-anchor="end" font-size="16" font-weight="700">2.08h</text>
+      <text x="278" y="509" fill="#f2f6f8" font-size="15" font-weight="700">Taylor Reed</text><text x="278" y="532" fill="#a5b3be" font-size="12">Monday · Accepted · confidence 88</text><text x="710" y="520" fill="#2dd4a6" text-anchor="end" font-size="16" font-weight="700">1.25h</text>
+      <text x="278" y="591" fill="#f2f6f8" font-size="15" font-weight="700">Casey Smith</text><text x="278" y="614" fill="#a5b3be" font-size="12">Monday · Pending Review · confidence 71</text><text x="710" y="602" fill="#2dd4a6" text-anchor="end" font-size="16" font-weight="700">0.92h</text>
+    </g>
+
+    <rect x="805" y="258" width="360" height="380" rx="16" fill="#090e13" stroke="#25303a"/>
+    <text x="825" y="289" fill="#2dd4a6" font-size="11" font-weight="700">SESSION REVIEW</text>
+    <g fill="#0d141b" stroke="#232d36"><rect x="825" y="309" width="150" height="68" rx="9"/><rect x="995" y="309" width="150" height="68" rx="9"/><rect x="825" y="393" width="150" height="68" rx="9"/><rect x="995" y="393" width="150" height="68" rx="9"/><rect x="825" y="477" width="150" height="68" rx="9"/><rect x="995" y="477" width="150" height="68" rx="9"/></g>
+    <g fill="#718392" font-size="9" font-weight="700"><text x="840" y="330">MEMBER</text><text x="1010" y="330">DURATION</text><text x="840" y="414">APPROVED TIME</text><text x="1010" y="414">CONFIDENCE</text><text x="840" y="498">CONTEXT SWITCHES</text><text x="1010" y="498">FOCUS CONTINUITY</text></g>
+    <g fill="#eff4f7" font-size="14" font-weight="700"><text x="840" y="354">Alex Morgan</text><text x="1010" y="354">1h 32m</text><text x="840" y="438">1h 18m</text><text x="1010" y="438">87 · High</text><text x="840" y="522">4</text><text x="1010" y="522">82/100</text></g>
+    <rect x="825" y="570" width="150" height="42" rx="8" fill="#173552"/><text x="900" y="596" fill="#eaf3f8" text-anchor="middle" font-size="12" font-weight="700">Approve</text>
+    <rect x="995" y="570" width="150" height="42" rx="8" fill="#14202b" stroke="#2d3a46"/><text x="1070" y="596" fill="#eaf3f8" text-anchor="middle" font-size="12" font-weight="700">Needs Review</text>
+  </g>
+</svg>

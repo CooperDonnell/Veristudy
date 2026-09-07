@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title description">
+  <title id="title">Veristudy system architecture</title>
+  <desc id="description">Electron desktop clients classify activity locally and synchronize authorized organization data with Supabase services.</desc>
+  <rect width="1200" height="560" rx="24" fill="#08111f"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="55" y="58" fill="#f3f7fa" font-size="28" font-weight="700">System architecture</text>
+    <text x="55" y="87" fill="#91a4b6" font-size="15">Local verification with authenticated organization synchronization</text>
+
+    <rect x="55" y="125" width="490" height="370" rx="22" fill="#0d1927" stroke="#24384c" stroke-width="2"/>
+    <text x="85" y="165" fill="#2dd4a6" font-size="15" font-weight="700">DESKTOP APPLICATION</text>
+    <text x="85" y="200" fill="#f3f7fa" font-size="24" font-weight="700">Electron member and admin UI</text>
+    <rect x="85" y="230" width="200" height="100" rx="14" fill="#142438" stroke="#2b4258"/>
+    <text x="105" y="264" fill="#f3f7fa" font-size="17" font-weight="700">Session engine</text>
+    <text x="105" y="290" fill="#9fb0bf" font-size="13">Timing · idle detection</text>
+    <text x="105" y="312" fill="#9fb0bf" font-size="13">focus and interaction signals</text>
+    <rect x="315" y="230" width="200" height="100" rx="14" fill="#142438" stroke="#2b4258"/>
+    <text x="335" y="264" fill="#f3f7fa" font-size="17" font-weight="700">Context helper</text>
+    <text x="335" y="290" fill="#9fb0bf" font-size="13">Foreground app</text>
+    <text x="335" y="312" fill="#9fb0bf" font-size="13">approved browser domain</text>
+    <rect x="85" y="360" width="200" height="100" rx="14" fill="#142438" stroke="#2b4258"/>
+    <text x="105" y="394" fill="#f3f7fa" font-size="17" font-weight="700">SQLite</text>
+    <text x="105" y="420" fill="#9fb0bf" font-size="13">Scoped local state</text>
+    <text x="105" y="442" fill="#9fb0bf" font-size="13">and session recovery</text>
+    <rect x="315" y="360" width="200" height="100" rx="14" fill="#142438" stroke="#2b4258"/>
+    <text x="335" y="394" fill="#f3f7fa" font-size="17" font-weight="700">Secure storage</text>
+    <text x="335" y="420" fill="#9fb0bf" font-size="13">Encrypted renewable</text>
+    <text x="335" y="442" fill="#9fb0bf" font-size="13">session token</text>
+
+    <rect x="655" y="125" width="490" height="370" rx="22" fill="#0d1927" stroke="#24384c" stroke-width="2"/>
+    <text x="685" y="165" fill="#2dd4a6" font-size="15" font-weight="700">SUPABASE BACKEND</text>
+    <text x="685" y="200" fill="#f3f7fa" font-size="24" font-weight="700">Shared organization services</text>
+    <rect x="685" y="230" width="200" height="100" rx="14" fill="#142438" stroke="#2b4258"/>
+    <text x="705" y="264" fill="#f3f7fa" font-size="17" font-weight="700">Authentication</text>
+    <text x="705" y="290" fill="#9fb0bf" font-size="13">Organization accounts</text>
+    <text x="705" y="312" fill="#9fb0bf" font-size="13">member · admin · owner</text>
+    <rect x="915" y="230" width="200" height="100" rx="14" fill="#142438" stroke="#2b4258"/>
+    <text x="935" y="264" fill="#f3f7fa" font-size="17" font-weight="700">PostgreSQL and RPC</text>
+    <text x="935" y="290" fill="#9fb0bf" font-size="13">Shared membership, policy,</text>
+    <text x="935" y="312" fill="#9fb0bf" font-size="13">tools, sessions, and reviews</text>
+    <rect x="685" y="360" width="200" height="100" rx="14" fill="#142438" stroke="#2b4258"/>
+    <text x="705" y="394" fill="#f3f7fa" font-size="17" font-weight="700">Edge Functions</text>
+    <text x="705" y="420" fill="#9fb0bf" font-size="13">Authenticated reports</text>
+    <text x="705" y="442" fill="#9fb0bf" font-size="13">and request rate limiting</text>
+    <rect x="915" y="360" width="200" height="100" rx="14" fill="#142438" stroke="#2b4258"/>
+    <text x="935" y="394" fill="#f3f7fa" font-size="17" font-weight="700">Email provider</text>
+    <text x="935" y="420" fill="#9fb0bf" font-size="13">Server-owned credentials</text>
+    <text x="935" y="442" fill="#9fb0bf" font-size="13">treasurer report delivery</text>
+
+    <path d="M545 270h110" stroke="#2dd4a6" stroke-width="4"/>
+    <path d="M640 258l15 12-15 12" fill="none" stroke="#2dd4a6" stroke-width="4"/>
+    <path d="M655 405H545" stroke="#4698ff" stroke-width="4"/>
+    <path d="M560 393l-15 12 15 12" fill="none" stroke="#4698ff" stroke-width="4"/>
+    <text x="566" y="247" fill="#9fb0bf" font-size="12">authenticated sync</text>
+    <text x="570" y="431" fill="#9fb0bf" font-size="12">authorized data</text>
+  </g>
+</svg>
+

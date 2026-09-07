@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Veristudy product workflow</title>
+  <desc id="description">A five-step workflow from organization invitation to weekly accountability reporting.</desc>
+  <rect width="1200" height="260" rx="24" fill="#08111f"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g fill="#0e1b2b" stroke="#23354a" stroke-width="2">
+      <rect x="35" y="55" width="190" height="150" rx="18"/><rect x="270" y="55" width="190" height="150" rx="18"/>
+      <rect x="505" y="55" width="190" height="150" rx="18"/><rect x="740" y="55" width="190" height="150" rx="18"/>
+      <rect x="975" y="55" width="190" height="150" rx="18"/>
+    </g>
+    <g fill="none" stroke="#2dd4a6" stroke-width="3">
+      <path d="M225 130h45"/><path d="M460 130h45"/><path d="M695 130h45"/><path d="M930 130h45"/>
+    </g>
+    <g fill="#2dd4a6" font-size="15" font-weight="700">
+      <text x="55" y="82">01</text><text x="290" y="82">02</text><text x="525" y="82">03</text><text x="760" y="82">04</text><text x="995" y="82">05</text>
+    </g>
+    <g fill="#f2f7fa" font-size="20" font-weight="700">
+      <text x="55" y="117">Share invite</text><text x="290" y="117">Request access</text><text x="525" y="117">Approve member</text><text x="760" y="117">Verify session</text><text x="995" y="117">Review results</text>
+    </g>
+    <g fill="#9fb0bf" font-size="14">
+      <text x="55" y="145"><tspan x="55" dy="0">Owner shares the</tspan><tspan x="55" dy="21">permanent join code.</tspan></text>
+      <text x="290" y="145"><tspan x="290" dy="0">Member creates an</tspan><tspan x="290" dy="21">organization account.</tspan></text>
+      <text x="525" y="145"><tspan x="525" dy="0">Owner or admin reviews</tspan><tspan x="525" dy="21">the pending request.</tspan></text>
+      <text x="760" y="145"><tspan x="760" dy="0">Approved activity and</tspan><tspan x="760" dy="21">focus signals are scored.</tspan></text>
+      <text x="995" y="145"><tspan x="995" dy="0">Admins review hours</tspan><tspan x="995" dy="21">and weekly reporting.</tspan></text>
+    </g>
+  </g>
+</svg>
+
