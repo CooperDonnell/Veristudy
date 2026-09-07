@@ -27,7 +27,6 @@ The platform combines a focused member experience with a shared administrative w
 
 ![Illustrative Veristudy interface using fictional demo data](assets/interface-overview.svg)
 
-*Illustrative interface overview using fictional demo data. No production member information is shown.*
 
 ## Core capabilities
 
