@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/veristudy-icon.png" width="112" alt="Veristudy application icon">
+  <img src="assets/veristudy-mark.svg" width="112" alt="Veristudy logo">
 </p>
 
 <h1 align="center">Veristudy</h1>
@@ -112,4 +112,3 @@ Veristudy is under active development and field testing. This public repository 
 ## Author
 
 Built by [Cooper Donnell](https://github.com/CooperDonnell).
-

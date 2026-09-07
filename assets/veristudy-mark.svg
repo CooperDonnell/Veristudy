@@ -1,0 +1,12 @@
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Veristudy logo</title>
+  <rect width="320" height="320" fill="#0D0F14"/>
+  <rect x="32" y="32" width="256" height="256" rx="44" fill="#13151C"/>
+  <rect x="32" y="32" width="256" height="256" rx="44" fill="none" stroke="#1E2130" stroke-width="1"/>
+  <g transform="translate(128, 108)">
+    <polygon points="32,0 64,0 64,104 32,104" fill="#242833"/>
+    <polygon points="0,0 32,0 32,104 0,104" fill="#2B303D"/>
+    <polygon points="0,0 64,0 32,52" fill="#22C55E"/>
+    <line x1="0" y1="0" x2="64" y2="0" stroke="#22C55E" stroke-width="3"/>
+  </g>
+</svg>
